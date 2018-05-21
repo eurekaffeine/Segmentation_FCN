@@ -14,9 +14,6 @@ Finally move the data to data folder.
 ```
 $ mv TrainVal/VOCdevkit/VOC2011 /path/to/workspace/data
 ```
-## Referred fles
-The ```BilinearUpSampling.py``` and ```voc_generator.py``` are credit to keras-fcn by JihongJu (https://github.com/JihongJu/keras-fcn)
-
 ## Main files
 ### model.py
 To build a FCN model based on VGG16.
