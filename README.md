@@ -3,7 +3,7 @@
 The dataset used in this project is PASCAL Visual Object Classes Challenge 2011 (known as VOC2011).
 To download it and make the program work, frst you need to download the dataset in tar format.
 ```
-$ curl -L http://host.robots.ox.ac.uk/pascal/VOC/voc2011/VOCtrainval_25-May-2011.tar \
+$ curl -L http://host.robots.ox.ac.uk/pascal/VOC/voc2011/VOCtrainval_25-May-2011.tar
 > > VOCtrainval_25-May-2011.tar
 ```
 Then extract it.
